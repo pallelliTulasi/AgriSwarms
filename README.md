@@ -1,5 +1,4 @@
-# AgriSwarms
-
+# AgriSwarms — Empowering Farmers Through Collaborative AI Agents
 > **Agents for Good Capstone Project**  
 > *Decentralized Multi-Agent Logistics & Collective Bargaining Network for Smallholder Farmers*
 
